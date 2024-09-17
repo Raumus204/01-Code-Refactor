@@ -3,7 +3,6 @@
 ## Description
 
 First assignment
-what did you learn --
 
 ## Usage
 
