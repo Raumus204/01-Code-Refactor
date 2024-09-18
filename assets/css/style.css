@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* changed .header to header to fit new tags */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -119,19 +120,19 @@ p {
 .benefit-lead img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    width: 150px;
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    width: 150px;
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    width: 150px;
 }
 
 .search-engine-optimization {
@@ -162,15 +163,15 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
+    height: 200px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
+    height: 200px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
+    height: 200px;
 }
 
 .search-engine-optimization h2 {
@@ -188,6 +189,7 @@ p {
     font-size: 36px;
 }
 
+/* changed .footer to footer for new tag */
 footer {
     padding: 30px;
     clear: both;
